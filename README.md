@@ -32,4 +32,4 @@ add_racer(racer): Adds a Racer to the race.
 
 start_race(): Simulates the race by looping through the racers and calculating their progress based on their speed. Print the progress for each racer.
 
-declare_winner(): Determines which racer finishes first and prints their name.
+declare_winner(): Determines which racer finishes first and prints their name (randomly found from the list of racers for the race).
