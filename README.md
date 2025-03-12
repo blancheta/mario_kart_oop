@@ -1,5 +1,7 @@
 # mario_kart_oop
 
+Create the classes for the following models: racer, kart, race
+
 ## Class: Racer
 ### Attributes:
 name: The name of the racer (e.g., "Mario", "Luigi").
